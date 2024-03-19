@@ -1,2 +1,2 @@
-# LPD
-Land Productivity Dynamics - Codes co-developed with WOCAT and FAO projects
+# LPD - Land Productivity Dynamics
+Codes co-developed with WOCAT and FAO projects
